@@ -1,0 +1,1 @@
+window.alert("bonhour a tous");
